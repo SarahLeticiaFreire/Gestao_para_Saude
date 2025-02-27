@@ -1,7 +1,7 @@
-Este sistema foi desenvolvido como parte de uma atividade acadêmica, com foco no aprendizado e aplicação de tecnologias web.
+O Sistema de Controle para Centros de Saúde é um projeto desenvolvido no contexto acadêmico, com o objetivo de gerenciar o atendimento em unidades de saúde. Ele permite o registro de pacientes, agendamento de consultas e administração de profissionais, proporcionando um controle mais eficiente das informações.
 
-O projeto ainda está em desenvolvimento e pode ser aprimorado com novas funcionalidades e refinamentos. 
+O sistema foi implementado utilizando Java e Spring Boot no back-end, garantindo uma estrutura robusta e escalável, enquanto o MySQL é utilizado para armazenamento de dados.
 
-Linguagens e Tecnologias Utilizadas: Java | Spring Boot | MySQL 
+Atualmente, o projeto está em fase de desenvolvimento e pode ser aprimorado com novas funcionalidades e refinamentos.
 
-Sinta-se à vontade para explorar e contribuir!
+Sinta-se à vontade para explorar e contribuir! 🚀
